@@ -3540,3 +3540,13 @@ path[fill="rgba(114, 118, 125, 1)"] {
 svg [mask="url(#svg-mask-squircle)"] {
 	mask: none!important;
 }
+
+#gif-picker-tab, #emoji-picker-tab {
+    display: flex;
+    place-content: space-evenly;
+    width: 50%;
+}
+
+#gif-picker-tab .navButton-2gQCx-, #emoji-picker-tab .navButton-2gQCx- {
+    width: 100%;
+}
