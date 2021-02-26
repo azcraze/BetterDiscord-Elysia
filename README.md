@@ -1,5 +1,5 @@
-## ELYSIA (Default config)
-![Default](https://purplewizard.space/images/ELYSIA/1.jpg)
+## ELYSIA PREVIEW
+![Default](https://purplewizard.space/images/ELYSIA/ELYSIA.gif)
 
 An amazing RGB theme with __+50 customization options__. Designed for both __Light__ and __Dark__ themes.
 
@@ -18,6 +18,8 @@ We now have a theme that support +50 options : Backgrounds for each element of d
 There is also some addons available for this theme like replacing the server position to stick it on top of the window, replacing the server folders icons by letters,
 Making the the members list hoverrable and disabling the offline round and ugly statuses.
 
+## ELYSIA (Default config)
+![Default](https://purplewizard.space/images/ELYSIA/1.jpg)
 
 ## Config example : NEON (without RGB and a gradient as background)
 ![NEON](https://purplewizard.space/images/ELYSIA/2.jpg)
